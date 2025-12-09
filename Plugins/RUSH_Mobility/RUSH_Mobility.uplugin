@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "RUSH_Mobility",
+	"Description": "Is an agnostic rig movement solution.",
+	"Category": "Other",
+	"CreatedBy": "Jones VG",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "RUSH_Mobility",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
